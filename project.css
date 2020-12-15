@@ -26,6 +26,9 @@
       font-size: 18px;
       margin-top: 10px;
   }
+#chart1 {
+  align-content: center;
+}
 #barlineChart {
     height: 400px; 
 }
