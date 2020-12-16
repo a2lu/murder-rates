@@ -424,8 +424,7 @@ Highcharts.chart('barlineChart', {
         shared: true
     },
     legend: {
-        align: 'left',
-        x: 225,
+        align: 'center',
         verticalAlign: 'top',
         y: 350,
         floating: true,
