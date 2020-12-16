@@ -460,8 +460,8 @@ Highcharts.chart('barlineChart', {
       {
         "name": "Death Penalty",
         "children": [
-          {"name": "Crimes of Passion"},
-          {"name": "Premeditated"}
+          {"name": "Legal"},
+          {"name": "Illegal"}
         ]
       },
       {
