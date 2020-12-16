@@ -249,8 +249,8 @@ Highcharts.chart('barChart', {
             color: '#e46161',
             y: 8.4,
         }, {
-            name: "Presidential Transition",
-            color: '#919191',
+            name: "Republican",
+            color: '#e46161',
             y: 8.7
         }, {
             name: "Republican",
